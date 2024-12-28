@@ -1,7 +1,7 @@
-# Website Summarizer
+# Summarize All
 
 ## Description
-Website Summarizer is a full-stack web application that allows users to summarize content from a website or raw text. It uses Flask as the backend to process requests and a React-based frontend built with Tailwind CSS and shadcn UI components for an intuitive user interface.
+Summarize All is a full-stack web application that allows users to summarize content from a website or raw text. It uses Flask as the backend to process requests and a React-based frontend built with Tailwind CSS and shadcn UI components for an intuitive user interface.
 
 ## Features
 - Input a website URL or plain text to summarize.
