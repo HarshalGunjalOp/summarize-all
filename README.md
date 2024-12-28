@@ -36,8 +36,8 @@ Website Summarizer is a full-stack web application that allows users to summariz
 ### Clone the Repository
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd website-summarizer
+git clone https://github.com/HarshalGunjalOp/summarize-all/
+cd summarize-all
 ```
 
 ---
@@ -119,7 +119,7 @@ This will generate the production-ready files in the `frontend/dist` directory.
 
 ## File Structure
 ```
-website-summarizer/
+summarize-all/
 ├── LICENSE
 ├── README.md
 ├── backend
